@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1, Мультфильмы
+#EXTSIZE:Medium
+https://raw.githubusercontent.com/status-kvo/iptv/main/_Мультфильмы.m3u
+#EXTINF:-1, Фильмы
+#EXTSIZE:Medium
+https://raw.githubusercontent.com/status-kvo/iptv/main/_Фильмы.m3u
+#EXTINF:-1, Телепрограммы
+#EXTSIZE:Medium
+https://smarttvnews.ru/apps/iptvchannels.m3u
